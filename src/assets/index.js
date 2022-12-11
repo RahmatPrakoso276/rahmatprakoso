@@ -4,7 +4,7 @@ import binance from "./binance.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
-import logo from "./logos.png";
+
 import fb from "./fb.png";
 import git from "./git.png";
 import linkedins from "./linkedin.png";
