@@ -17,9 +17,9 @@ const Contact = () =>
 
     <div className={`${styles.flexCenter}  w-full`}>
         <div  className={`flex-1 ${styles.flexCenter} sm:min-w-[192px] min-w-[120px] m-5`}>
-          <a href='#'><img src={git} alt="client_logo" className="sm:w-[50px] w-[50px] object-contain" /></a>
+          <a href='https://github.com/RahmatPrakoso276'><img src={git} alt="client_logo" className="sm:w-[50px] w-[50px] object-contain" /></a>
           <a href='https://www.instagram.com/rahmatp384/'><img src={ig} alt="client_logo" className="sm:w-[50px] w-[50px] object-contain" /></a>
-          <a href='#'><img src={linkedins} alt="client_logo" className="sm:w-[50px] w-[50px] object-contain" /></a>
+          <a href='https://www.linkedin.com/in/rahmat-prakoso'><img src={linkedins} alt="client_logo" className="sm:w-[50px] w-[50px] object-contain" /></a>
 
         </div>
       
