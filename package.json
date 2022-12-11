@@ -1,8 +1,8 @@
 {
-  "name": "porto_rahmat",
+  "name": "rahmatprakoso276.github.io",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rahmatprakoso276.github.io/",
+  "homepage": "https://rahmatprakoso276.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
