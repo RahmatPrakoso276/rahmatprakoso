@@ -2,7 +2,7 @@
   "name": "porto_rahmat",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://rahmatprakoso276.github.io/rahmatprakoso",
+  "homepage": "https://rahmatprakoso276.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
