@@ -4,7 +4,6 @@ import binance from "./binance.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
-import logo from "./logo.png";
 import fb from "./fb.png";
 import git from "./git.png";
 import linkedins from "./linkedin.png";
@@ -46,7 +45,7 @@ export {
   card,
   coinbase,
   dropbox,
-  logo,
+
   quotes,
   robot,
   fotorahmat,
