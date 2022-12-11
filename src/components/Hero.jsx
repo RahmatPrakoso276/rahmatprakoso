@@ -4,6 +4,7 @@ import { discount, fotorahmat, robot, quotes } from "../assets";
 // import GetStarted from "./GetStarted";
 import React from 'react'
 
+
 const Hero = () => {
   return (
     <section id="home" className={`flex md:flex-row flex-col ${styles.paddingY}`}>
@@ -37,7 +38,7 @@ const Hero = () => {
         <p className={`${styles.paragraph}font-poppins max-w-[480px] mt-5 mb-12 pl-5`}>
         Without big data analytics, companies are blind and deaf, wandering out onto the web like deer on a freeway
         </p>
-        <a href="Contact" className="text base font-poppins text-white rounded-full btn-grad btn-grad:hover p-[10px]">Hubungi Saya </a>
+        <a href="#Contact" className="text base font-poppins text-white rounded-full btn-grad btn-grad:hover p-[10px]">Hubungi Saya </a>
         
       </div>
       <div className={`flex-1 flex ${styles.flexStart} md: mx-5  my-10 relative`}>
